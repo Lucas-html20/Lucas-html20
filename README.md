@@ -22,4 +22,5 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 [![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-html20)](https://github.com/Lucas-html20/github-readme-stats)
